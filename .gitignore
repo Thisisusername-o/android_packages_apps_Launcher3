@@ -15,5 +15,4 @@ gradle/
 build/
 gradlew*
 .DS_Store
-/res-icons
 .settings
