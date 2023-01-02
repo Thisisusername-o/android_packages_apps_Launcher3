@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 SuperiorOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_title">ランチャー設定</string>
+    <string name="home_category_title">ホーム画面</string>
+    <string name="home_category_summary">Google Nowやその他の設定</string>
+    <string name="icons_category_title">アイコン</string>
+    <string name="icons_category_summary">アイコンのサイズなどの設定</string>
+    <string name="app_drawer_category_title">アプリドロワー</string>
+    <string name="app_drawer_category_summary">アプリドロワーのカスタマイズ</string>
+    <string name="recents_category_title">アプリ履歴</string>
+    <string name="recents_category_summary">アプリ履歴の変更</string>
+    <string name="misc_category_title">その他</string>
+    <string name="misc_category_summary">その他のオプション</string>
+    <string name="general_category_title">一般</string>
+    <string name="interface_category_title">UI</string>
+    <string name="search_bar_category_title">検索バー</string>
+    <string name="actions_category_title">クイックアクション</string>
+    <string name="dev_options_title">開発者向けオプション</string>
+    <string name="dev_options_summary">非表示の機能を自己責任で有効にする</string>
+    <string name="settings_lock_layout_title">ホーム画面をロック</string>
+    <string name="settings_lock_layout_summary_on">ホーム画面でアイコンやウィジェットの追加、削除、移動を許可しません</string>
+    <string name="settings_lock_layout_summary_off">ホーム画面でアイコンやウィジェットの追加、削除、移動を許可します</string>
+    <string name="settings_edit_widgets_error">ホーム画面にウィジェットを追加できません</string>
+    <string name="desktop_show_labels">アイコンのラベルを表示</string>
+    <string name="drawer_show_labels">アイコンのラベルを表示</string>
+    <string name="title_show_google_app">スワイプしてGoogleアプリを開く</string>
+    <string name="msg_minus_one_on_left">メインのホーム画面で右にスワイプしてGoogleアプリを表示する</string>
+    <string name="msg_minus_one_on_right">メインのホーム画面で左にスワイプしてGoogleアプリを表示する</string>
+    <string name="pref_sleep_gesture_title">ダブルタップしてスリープ</string>
+    <string name="pref_sleep_gesture_summary">ホーム画面の空きスペースをダブルタップして画面を消灯する</string>
+    <string name="pause">一時停止</string>
+    <string name="pause_apps_dialog_title">%1$s を一時停止しますか?</string>
+    <string name="pause_apps_dialog_message">%1$s の通知は一時停止されます</string>
+    <string name="paused_apps_dialog_title">アプリを一時停止しました</string>
+    <string name="paused_apps_dialog_message">%1$s はランチャーから直接一時停止しました</string>
+    <string name="paused_apps_drop_target_label">アプリを一時停止</string>
+    <string name="custom_seekbar_value">値: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">既定値</string>
+    <string name="custom_seekbar_default_value_to_set">既定値: <xliff:g id="v">%s</xliff:g>\n長押しで設定</string>
+    <string name="custom_seekbar_default_value_is_set">既定値が設定されています</string>
+    <string name="icon_size_title">アイコンの大きさ</string>
+    <string name="font_size_title">フォントの大きさ</string>
+    <string name="icon_max_lines_title">ラベルの最大行数</string>
+    <string name="label_search">検索</string>
+    <string name="label_lens">Google レンズ</string>
+    <string name="label_voice_search">音声検索</string>
+    <string name="dock_search_title">Google 検索バー</string>
+    <string name="dock_search_summary">ドックの下部に検索バーを表示します</string>
+    <string name="dock_theme_title">テーマアイコン</string>
+    <string name="dock_theme_summary">検索バーにアイコンのテーマを使用する</string>
+    <string name="search_radius_title">角の丸み</string>
+    <string name="hotseat_bg_title">ドックの背景</string>
+    <string name="hotseat_bg_summary">アプリドックに半透明の背景を表示</string>
+    <string name="allow_wallpaper_scrolling">壁紙をスクロール</string>
+    <string name="allow_wallpaper_scrolling_summary">別のページに遷移するときに壁紙をスクロールします</string>
+    <string name="allow_wallpaper_zooming">壁紙をズーム</string>
+    <string name="allow_wallpaper_zooming_summary">アプリドロワーやアプリ履歴を開いたときに壁紙をズームインまたはズームアウトする</string>
+    <string name="show_statusbar_title">ステータスバー</string>
+    <string name="show_top_shadow">上部の影</string>
+    <string name="row_height_title">行の高さ</string>
+    <string name="background_blur_title">背景ぼかしの深さ</string>
+    <string name="background_blur_summary">アプリ履歴とアプリドロワーのぼかしの深さを設定する</string>
+    <string name="suggestion_pref_screen_title">候補</string>
+    <string name="suggestion_pref_screen_desc">すべてのアプリとホーム画面の候補</string>
+    <string name="background_opacity_title">背景の透明度</string>
+    <string name="recents_screenshot_title">スクリーンショット</string>
+    <string name="recents_clear_all_title">すべてクリア</string>
+    <string name="recents_lens_title">レンズ</string>
+    <string name="pref_themed_icons_title">テーマアイコン</string>
+    <string name="pref_themed_icons_summary">ランチャーのテーマアイコンに従う</string>
+    <string name="app_info_source">ソース</string>
+    <string name="app_info_source_system">システム</string>
+    <string name="app_info_last_update">最終更新</string>
+    <string name="app_info_version">バージョン</string>
+    <string name="app_info_more">その他</string>
+    <string name="icon_pack_title">アイコンパック</string>
+    <string name="icon_pack_default_label">デフォルト</string>
+    <string name="icon_pack_add">テーマを追加する</string>
+    <string name="icon_pack_no_market">利用可能なアプリストアがありません</string>
+    <string name="recent_task_option_kill_app">強制終了</string>
+    <string name="recents_app_killed">アプリを終了しました</string>
+    <string name="meminfo_text">%1$s 利用可能 | %2$s 合計</string>
+    <string name="recents_meminfo_title">メモリ情報</string>
+    <string name="smartspace_pref_title">At A Glance</string>
+    <string name="smartspace_pref_summary">ホーム画面の上部にスマートスペースを表示する</string>
+</resources>

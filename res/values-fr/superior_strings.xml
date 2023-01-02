@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 SuperiorOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settings_title">Paramètres d\'accueil</string>
+    <string name="home_category_title">Écran d\'accueil</string>
+    <string name="home_category_summary">Définir le panneau Google Now et plus</string>
+    <string name="icons_category_title">Icônes</string>
+    <string name="icons_category_summary">Définir la taille des icônes et plus</string>
+    <string name="app_drawer_category_title">Tiroir des applications</string>
+    <string name="app_drawer_category_summary">Personnaliser votre tiroir d\'applications</string>
+    <string name="recents_category_title">Récents</string>
+    <string name="misc_category_title">Divers</string>
+    <string name="misc_category_summary">Autres options</string>
+    <string name="general_category_title">Général</string>
+    <string name="interface_category_title">Interface</string>
+    <string name="search_bar_category_title">Barre de recherche</string>
+    <string name="actions_category_title">Actions rapides</string>
+    <string name="dev_options_title">Options pour les développeurs</string>
+    <string name="dev_options_summary">Activez certaines fonctionnalités cachées à vos propres risques</string>
+    <string name="settings_lock_layout_title">Verrouiller la disposition</string>
+    <string name="settings_lock_layout_summary_on">Les icônes et widgets ne peuvent pas être ajoutés, supprimés ou déplacés sur l\'écran d\'accueil</string>
+    <string name="settings_lock_layout_summary_off">Les icônes et widgets pourront être ajoutés, supprimés ou déplacés sur l\'écran d\'accueil</string>
+    <string name="settings_edit_widgets_error">Impossible d\'ajouter des widgets sur l\'écran d\'accueil</string>
+    <string name="desktop_show_labels">Étiquettes des icônes sur l\'écran d\'accueil</string>
+    <string name="drawer_show_labels">Étiquettes des icônes dans le tiroir</string>
+    <string name="title_show_google_app">Balayer pour accéder à l\'application Google</string>
+    <string name="pause">Pause</string>
+    <string name="custom_seekbar_default_value_is_set">La valeur par défaut est définie</string>
+    <string name="icon_size_title">Taille d\'icône</string>
+    <string name="font_size_title">Taille de police</string>
+    <string name="label_search">Recherche</string>
+    <string name="label_lens">Google Lens</string>
+    <string name="label_voice_search">Recherche vocale</string>
+    <string name="dock_search_title">Barre de recherche Google</string>
+    <string name="dock_theme_title">Icônes thématiques</string>
+    <string name="dock_theme_summary">Utiliser les icônes thématiques pour la barre de recherche</string>
+    <string name="show_statusbar_title">Barre d\'état</string>
+    <string name="background_blur_title">Niveau de flou d\'arrière-plan</string>
+    <string name="background_blur_summary">Définir le niveau de flou pour le tiroir d\'applications et les applications récentes</string>
+    <string name="recents_screenshot_title">Capture d\'écran</string>
+    <string name="pref_themed_icons_title">Icônes thématiques</string>
+    <string name="app_info_source">Source</string>
+    <string name="app_info_source_system">Système</string>
+    <string name="app_info_last_update">Dernière mise à jour</string>
+    <string name="app_info_version">Version</string>
+    <string name="app_info_more">Plus</string>
+    <string name="icon_pack_default_label">Par défaut</string>
+</resources>

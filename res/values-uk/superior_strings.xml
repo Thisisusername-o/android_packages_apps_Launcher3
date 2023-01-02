@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 SuperiorOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pref_sleep_gesture_title">Подвійне натискання для блокування екрану</string>
+    <string name="pref_sleep_gesture_summary">Натисніть два рази на порожньому просторі для вимкнення екрану</string>
+    <string name="label_voice_search">Голосовий пошук</string>
+    <string name="dock_search_title">Панель пошуку Google</string>
+    <string name="dock_search_summary">Показувати панель пошуку в нижній панелі</string>
+    <string name="dock_theme_title">Іконки з темами</string>
+    <string name="dock_theme_summary">Використовувати тематичні іконки для панелі пошуку</string>
+    <string name="search_radius_title">Радіус округлення</string>
+    <string name="hotseat_bg_title">Тло панелі додатків</string>
+    <string name="hotseat_bg_summary">Додати напівпрозоре тло до панелі додатків</string>
+    <string name="allow_wallpaper_scrolling">Прокручування шпалер</string>
+    <string name="allow_wallpaper_scrolling_summary">Ефект прокрутки шпалер для декількох екранів</string>
+    <string name="allow_wallpaper_zooming">Масштабування шпалерів</string>
+    <string name="allow_wallpaper_zooming_summary">Збільшувати або зменшувати масштаб шпалер при використанні Меню додатків або Диспетчера нещодавніх завдань</string>
+    <string name="show_statusbar_title">Рядок стану</string>
+    <string name="show_top_shadow">Верхня тінь</string>
+    <string name="row_height_title">Висота рядку</string>
+    <string name="suggestion_pref_screen_title">Підказки</string>
+    <string name="suggestion_pref_screen_desc">Пропозиції в меню додатків та на домашньому екрані</string>
+    <string name="background_opacity_title">Прозорість фону</string>
+    <string name="recents_screenshot_title">Знімки екрана</string>
+    <string name="recents_clear_all_title">Очистити все</string>
+    <string name="recents_lens_title">Лiнза</string>
+    <string name="pref_themed_icons_title">Іконки з темами</string>
+    <string name="pref_themed_icons_summary">Тематичні піктограми, які використовуються на головному екрані</string>
+</resources>
