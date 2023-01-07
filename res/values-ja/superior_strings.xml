@@ -97,4 +97,6 @@
     <string name="recents_meminfo_title">メモリ情報</string>
     <string name="smartspace_pref_title">At A Glance</string>
     <string name="smartspace_pref_summary">ホーム画面の上部にスマートスペースを表示する</string>
+    <string name="drawer_search_title">App search bar</string>
+    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
 </resources>

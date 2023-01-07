@@ -97,4 +97,6 @@
     <string name="recents_meminfo_title">Informace o paměti</string>
     <string name="smartspace_pref_title">Přehled událostí</string>
     <string name="smartspace_pref_summary">Zobrazení inteligentního prostoru v horní části domovské obrazovky</string>
+    <string name="drawer_search_title">App search bar</string>
+    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
 </resources>

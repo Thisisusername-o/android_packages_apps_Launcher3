@@ -72,6 +72,8 @@
     <string name="show_statusbar_title">Строка состояния</string>
     <string name="show_top_shadow">Тень сверху</string>
     <string name="row_height_title">Высота строки</string>
+    <string name="background_blur_title">Глубина размытия фона</string>
+    <string name="background_blur_summary">Установка глубины размытия для недавних и меню приложений</string>
     <string name="suggestion_pref_screen_title">Предложения</string>
     <string name="suggestion_pref_screen_desc">Рекомендации в списке всех приложений и на главном экране</string>
     <string name="background_opacity_title">Прозрачность фона</string>
@@ -80,8 +82,21 @@
     <string name="recents_lens_title">Объектив</string>
     <string name="pref_themed_icons_title">Тематические значки</string>
     <string name="pref_themed_icons_summary">Следовать тематическим значкам, которые используются на главном экране</string>
+    <string name="app_info_source">Источник</string>
+    <string name="app_info_source_system">Система</string>
+    <string name="app_info_last_update">Последнее обновление</string>
+    <string name="app_info_version">Версия</string>
+    <string name="app_info_more">Еще</string>
     <string name="icon_pack_title">Набор значков</string>
     <string name="icon_pack_default_label">По умолчанию</string>
     <string name="icon_pack_add">Установить еще</string>
     <string name="icon_pack_no_market">Нет доступного магазина приложений</string>
+    <string name="recent_task_option_kill_app">Закрыть</string>
+    <string name="recents_app_killed">Приложение закрыто</string>
+    <string name="meminfo_text">Доступно: %1$s | Всего: %2$s</string>
+    <string name="recents_meminfo_title">Информация о памяти</string>
+    <string name="smartspace_pref_title">Все на ввиду</string>
+    <string name="smartspace_pref_summary">Отображать умное пространство в верхней части главного экрана</string>
+    <string name="drawer_search_title">App search bar</string>
+    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
 </resources>

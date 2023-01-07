@@ -97,4 +97,6 @@
     <string name="recents_meminfo_title">Info memori</string>
     <string name="smartspace_pref_title">Sekilas</string>
     <string name="smartspace_pref_summary">Tampilkan ruang pintar di bagian atas layar beranda</string>
+    <string name="drawer_search_title">App search bar</string>
+    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
 </resources>

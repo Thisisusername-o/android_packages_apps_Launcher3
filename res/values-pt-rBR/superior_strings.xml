@@ -97,4 +97,6 @@
     <string name="recents_meminfo_title">Informações da memória</string>
     <string name="smartspace_pref_title">Resumo</string>
     <string name="smartspace_pref_summary">Mostrar espaço inteligente na parte superior da tela inicial</string>
+    <string name="drawer_search_title">App search bar</string>
+    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
 </resources>

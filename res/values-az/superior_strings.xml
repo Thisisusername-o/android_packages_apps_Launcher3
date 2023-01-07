@@ -97,4 +97,6 @@
     <string name="recents_meminfo_title">Yaddaş məlumatı</string>
     <string name="smartspace_pref_title">Bir baxışda</string>
     <string name="smartspace_pref_summary">Smartspace-i əsas ekranın üst hissəsində göstər</string>
+    <string name="drawer_search_title">App search bar</string>
+    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
 </resources>
